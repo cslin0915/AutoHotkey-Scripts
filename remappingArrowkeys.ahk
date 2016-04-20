@@ -11,9 +11,9 @@ Return
 ; the following keys doesn't work for windows with titles starting with emacs
 #IfWinNotActive, ahk_exe sublime_text.exe
 {
-  !j::Up
+  !j::SendInput, {Down}
 
-  !k::Down
+  !k::SendInput, {Up}
 
   !d::SendInput, {Left}
 
