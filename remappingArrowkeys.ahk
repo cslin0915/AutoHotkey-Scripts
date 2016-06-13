@@ -11,13 +11,23 @@ Return
 ; the following keys doesn't work for windows with titles starting with emacs
 #IfWinNotActive, ahk_exe sublime_text.exe
 {
-  !j::SendInput, {Down}
+  <!d::SendInput, {Down}
 
-  !k::SendInput, {Up}
+  <!e::SendInput, {Up}
 
-  !d::SendInput, {Left}
+  <!f::SendInput, {Right}
 
-  !f::SendInput, {Right}
+  <!s::SendInput, {Left}
+
+  <!`;::SendInput, {BS}
+
+  <!l::SendInput, {PgUp}
+
+  <!.::SendInput, {PgDn}
+
+  <!k::SendInput, {Home}
+
+  <!,::SendInput, {End}
 }
 
 AutoEnable:
