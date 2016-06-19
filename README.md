@@ -22,8 +22,21 @@
 | `alt`+`.` | Equal to PageDown key |
 | `alt`+`k` | Equal to Home key |
 | `alt`+`,` | Equal to End key |
+| `alt`+`j` | Equal to Insert key |
+| `alt`+`m` | Equal to Delete key |
 **Cautions**
 * Not available in Sublime Text due to key conflictions
+
+===
+
+## remapWinKey.ahk
+| Keymap | Description |
+| :---: | :---: |
+| `ctrl`+`Esc` | Quit the ahk program |
+| `win`+`d` | Equal to Win key + ↓ |
+| `win`+`e` | Equal to Win key + ↑ |
+| `win`+`s` | Equal to Win key + ← |
+| `win`+`f` | Equal to Win key + → |
 
 ===
 
