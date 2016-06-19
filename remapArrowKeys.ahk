@@ -28,6 +28,10 @@ Return
   <!k::SendInput, {Home}
 
   <!,::SendInput, {End}
+
+  <!j::SendInput, {Ins}
+
+  <!m::SendInput, {Del}
 }
 
 AutoEnable:
