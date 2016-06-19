@@ -1,7 +1,7 @@
 # How to use these scripts?
 1. Download the installation file [ahk-install.exe](https://autohotkey.com/download/ahk-install.exe)
 2. Run the ahk-install.exe to install AutoHotkey 
-3. Double click a ahk file to use it
+3. Double click an ahk file to use the shortcuts
 
 **References**
 * [中文文檔](http://fjxhkj.github.io/ahk_doc/zh-cn/docs/AutoHotkey.htm)
