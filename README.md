@@ -27,7 +27,7 @@
 **Cautions**
 * Not available in Sublime Text due to key conflictions
 
-===
+----
 
 ## remapWinKey.ahk
 | Keymap | Description |
@@ -38,7 +38,7 @@
 | `win`+`s` | Equal to Win key + ← |
 | `win`+`f` | Equal to Win key + → |
 
-===
+----
 
 ## quickSave.ahk
 | Keymap | Description |
