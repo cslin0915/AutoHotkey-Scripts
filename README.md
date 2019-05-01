@@ -45,5 +45,6 @@
 | :---: | :---: |
 | `ctrl`+`Esc` | Quit the ahk program |
 | `ctrl`+`1` | Save the image under your mouse cursor to the default directory on Chrome |
+
 **Similar Chrome Extensions**
 * [I'm a Gentleman](https://chrome.google.com/webstore/detail/im-a-gentleman/afjaicccalbbickikgdegaihmajaidpd)
